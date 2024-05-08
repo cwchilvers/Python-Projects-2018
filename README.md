@@ -15,7 +15,7 @@
 A collection of assorted Python projects from 2018. Some of these do work. Unfortunately it's been too long for me to remember which ones don't.
 
 ## Technologies Used
-* Python
+* [Python](https://www.python.org/)
 
 ## Contact Information
 <p align="center">
