@@ -12,7 +12,7 @@
 3. [Contact Information](#contact-information)
 
 ## Description
-A collection of assorted Python projects from 2018. Some projects work. Unfortunately it's been too long for me to remember which ones don't.
+A collection of assorted Python projects from 2018. Some of these do work. Unfortunately it's been too long for me to remember which ones don't.
 
 ## Technologies Used
 * Python
